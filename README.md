@@ -8,7 +8,7 @@
 
 ---
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 
     Frontend: Flutter (Dart)
     Backend: Firebase Firestore
@@ -17,7 +17,7 @@
 
 ---
 
-##🔥 Efficient Use of Flutter
+## 🔥 Efficient Use of Flutter
 
   Flutter is used to create a fast, responsive, and scalable user interface.
   
